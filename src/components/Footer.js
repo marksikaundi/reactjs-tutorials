@@ -5,7 +5,7 @@ import '../App.css';
 function Footer() {
   return (
     <div>
-      <h1 className='App'>DevCircle Africa</h1>
+      <p className='App'>2022 DevCircle Africa</p>
     </div>
   )
 }
